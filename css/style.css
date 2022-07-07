@@ -4,3 +4,9 @@
 .btnAdjust{
     padding: 0.3rem;
 }
+.mainAdjust{
+    width: 80%;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
